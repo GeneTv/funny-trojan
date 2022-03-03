@@ -1,4 +1,4 @@
-# Funny Trojan
+# Funny Trojan
 
 ## Disclaimer
 
